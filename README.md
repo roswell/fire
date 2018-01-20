@@ -1,6 +1,6 @@
 # fire
 
-fire is a init script generator to invoke exproted functions.
+fire is a init script generator to invoke exported functions.
 
 inspired by https://github.com/google/python-fire
 
